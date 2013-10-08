@@ -18,9 +18,19 @@
     }
 这样输出的结果是什么？
 
+答案
+=======
+    hello,world
+    test
+
+分析
+========
+[stackoverflow-java pass by reference][2]
+
 
 
 > Written with [StackEdit](http://benweet.github.io/stackedit/).
 
 
   [1]: http://www.codelect.net/InterviewQuestions/Java%20Junior%20Level%20Test
+  [2]: http://stackoverflow.com/questions/40480/is-java-pass-by-reference/40523#40523
